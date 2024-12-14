@@ -13,5 +13,4 @@ This repository contains the code for my personal webpage that includes a New Ye
 
 - *HTML*: For structuring the content of the webpage.
 - *CSS*: For styling and layout.
-- *JavaScript*: For countdown functionality and dynamic behavior.
-- *GitHub Pages*: (Optional) Host your webpage for free.
+- *JavaScript*: For countdown functionality and dynamic behavior
