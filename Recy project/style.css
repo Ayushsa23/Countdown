@@ -1,6 +1,6 @@
 
 body {
-    font-family: 'Poppins', sans-serif; /* Modern Google Font */
+    font-family: 'Poppins', sans-serif; 
     margin: 0;
     padding: 0;
     display: flex;
@@ -17,11 +17,11 @@ body {
     display: flex;
     width: 80%;
     height: 80%;
-    background: white;
+    
     border-radius: 15px;
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Softer shadow */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); 
     overflow: hidden;
-    background-image: url(2025.png);
+    background-image: url(2025.png) no-repeat center center;
     background-size: cover;
 }
 
